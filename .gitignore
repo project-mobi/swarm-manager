@@ -1,3 +1,8 @@
 venv
 __pycache__
 .env
+docker.cert
+docker.key
+docker.pem
+db.sqlite3
+.git.bfg-report
